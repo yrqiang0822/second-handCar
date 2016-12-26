@@ -1,0 +1,6 @@
+*{padding:0; margin:0; font-family:"微软雅黑";}
+ul,ol{list-style:none;}
+a{text-decoration:none;}
+img{border:none;}
+.w1200{margin:0 auto; width:1200px;}
+.icon{background-image:url(../image/icon.png);}
